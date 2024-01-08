@@ -1,0 +1,17 @@
+{
+  "link": "https://www.sipri.org/yearbook/2022",
+  "domain": "www.sipri.org",
+  "tag": [
+    "www.sipri.org",
+    "yearbook",
+    "2022"
+  ],
+  "category": "SIPRI Yearbook: Armaments, Disarmament and International Security",
+  "sub_category": "Yearbook archives",
+  "title": "SIPRI Yearbook 2022",
+  "language": "English",
+  "file_name": "yb22_summary_en_v3.pdf",
+  "path_data_raw": "data/SIPRI_Yearbook_2022/pdf/yb22_summary_en_v3.pdf",
+  "crawling_time": "2024-01-08T12:23:10",
+  "crawling_time_epoch": 1704691390
+}

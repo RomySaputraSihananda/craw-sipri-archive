@@ -1,0 +1,17 @@
+{
+  "link": "https://www.sipri.org/yearbook/2008",
+  "domain": "www.sipri.org",
+  "tag": [
+    "www.sipri.org",
+    "yearbook",
+    "2008"
+  ],
+  "category": "SIPRI Yearbook: Armaments, Disarmament and International Security",
+  "sub_category": "Yearbook archives",
+  "title": "SIPRI Yearbook 2008",
+  "language": "English",
+  "file_name": "SIPRIYB08summary.pdf",
+  "path_data_raw": "data/SIPRI_Yearbook_2008/pdf/SIPRIYB08summary.pdf",
+  "crawling_time": "2024-01-08T12:23:15",
+  "crawling_time_epoch": 1704691395
+}

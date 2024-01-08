@@ -1,0 +1,17 @@
+{
+  "link": "https://www.sipri.org/yearbook/2017",
+  "domain": "www.sipri.org",
+  "tag": [
+    "www.sipri.org",
+    "yearbook",
+    "2017"
+  ],
+  "category": "SIPRI Yearbook: Armaments, Disarmament and International Security",
+  "sub_category": "Yearbook archives",
+  "title": "SIPRI Yearbook 2017",
+  "language": "English",
+  "file_name": "yb17-summary_sv.pdf",
+  "path_data_raw": "data/SIPRI_Yearbook_2017/pdf/yb17-summary_sv.pdf",
+  "crawling_time": "2024-01-08T12:23:11",
+  "crawling_time_epoch": 1704691391
+}
